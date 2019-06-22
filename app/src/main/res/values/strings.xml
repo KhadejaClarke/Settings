@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Settings</string>
+
+    <string-array name="themes">
+        <item>Light Theme</item>
+        <item>Dark Theme</item>
+    </string-array>
+
+    <string name="theme_dialog_title">Styles/Themes</string>
+    <string name="settings">System Settings</string>
+</resources>
